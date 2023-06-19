@@ -4,7 +4,12 @@
 
 I'm Moustafa from Egypt, and I am a web developer and software engineer. I really enjoy learning languages and frameworks like Python, Java, React, and React Native, as well as contributing to open source. I also enjoy making coding-related content and tutorials.
 
-Skills: HTML/CSS/JS/PYTHON/JAVA
+#### Skills:
+- JAVA
+- PYTHON
+- HTML
+- CSS
+- JS
 
 
 
